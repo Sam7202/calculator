@@ -1,6 +1,6 @@
 package culculator;
 
-public class Play {
+public class Launcher {
 	public static void main(String[] args) {
 		new Calculator();
 		}
